@@ -1,0 +1,19 @@
+[
+    {
+        "info": "2009年info测试。"
+    },
+    {
+        "id": 5,
+        "lineName": "北京地铁5号线",
+        "gpxTrackFile": "/gpx/2009/beijing_metro_line_5.gpx",
+        "color": "#AA0061",
+        "info": "5测试"
+    },
+    {
+        "id": 4,
+        "lineName": "北京地铁4号线",
+        "gpxTrackFile": "/gpx/2009/beijing_metro_line_4.gpx",
+        "color": "#008C95",
+        "info": "<b>2009年9月28日，4号线全线（安河桥北—公益西桥）开通运营。</b>"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "info": "2015"
+    },
+    {
+        "id": 1401,
+        "lineName": "北京地铁14号线",
+        "gpxTrackFile": "/gpx/2013/beijing_metro_line_14_1.gpx",
+        "color": "#008C95",
+        "info": "14"
+    },
+    {
+        "id": 1402,
+        "lineName": "北京地铁14号线",
+        "gpxTrackFile": "/gpx/2014/beijing_metro_line_14_2.gpx",
+        "color": "#008C95",
+        "info": "14"
+    },
+    {
+        "id": 1403,
+        "lineName": "北京地铁14号线",
+        "gpxTrackFile": "/gpx/2015/beijing_metro_line_14_3.gpx",
+        "color": "#008C95",
+        "info": "14"
+    }
+]

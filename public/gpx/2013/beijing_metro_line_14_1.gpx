@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JOSM GPX export">
+	<metadata>
+		<time>2025-03-14T14:26:03.327285966Z</time>
+		<bounds minlat="39.856787" minlon="116.1809218" maxlat="40.0265259" maxlon="116.4840507"/>
+	</metadata>
+	<trk>
+		<name><![CDATA[地铁 14号线西段]]></name>
+		<trkseg>
+			<trkpt lat="39.865300" lon="116.297880">
+				<ele>0.000000</ele>
+			</trkpt>
+			<trkpt lat="39.865300" lon="116.297880">
+				<ele>0.000000</ele>
+			</trkpt>
+			<trkpt lat="39.8652999" lon="116.2949264">
+				<time>2025-03-13T14:29:09Z</time>
+			</trkpt>
+			<trkpt lat="39.8653931" lon="116.2922269">
+				<time>2025-03-13T14:29:10Z</time>
+			</trkpt>
+			<trkpt lat="39.8653682" lon="116.2900145">
+				<time>2025-03-13T14:29:11Z</time>
+			</trkpt>
+			<trkpt lat="39.8652532" lon="116.2878605">
+				<time>2025-03-13T14:29:12Z</time>
+			</trkpt>
+			<trkpt lat="39.8651227" lon="116.2858952">
+				<time>2025-03-13T14:29:13Z</time>
+				<name><![CDATA[七里庄]]></name>
+			</trkpt>
+			<trkpt lat="39.8644451" lon="116.2778388">
+				<time>2025-03-13T14:29:14Z</time>
+			</trkpt>
+			<trkpt lat="39.8640699" lon="116.273624">
+				<time>2025-03-13T14:29:15Z</time>
+			</trkpt>
+			<trkpt lat="39.8640215" lon="116.2711642">
+				<time>2025-03-13T14:29:16Z</time>
+			</trkpt>
+			<trkpt lat="39.8640718" lon="116.2689457">
+				<time>2025-03-13T14:29:17Z</time>
+				<name><![CDATA[大井]]></name>
+			</trkpt>
+			<trkpt lat="39.8645018" lon="116.2632446">
+				<time>2025-03-13T14:29:18Z</time>
+			</trkpt>
+			<trkpt lat="39.8648029" lon="116.2611696">
+				<time>2025-03-13T14:29:19Z</time>
+			</trkpt>
+			<trkpt lat="39.8652246" lon="116.2591873">
+				<time>2025-03-13T14:29:20Z</time>
+			</trkpt>
+			<trkpt lat="39.8660219" lon="116.256107">
+				<time>2025-03-13T14:29:21Z</time>
+			</trkpt>
+			<trkpt lat="39.865999" lon="116.2550205">
+				<time>2025-03-13T14:29:22Z</time>
+			</trkpt>
+			<trkpt lat="39.8657988" lon="116.2536059">
+				<time>2025-03-13T14:29:23Z</time>
+			</trkpt>
+			<trkpt lat="39.8655198" lon="116.25218">
+				<time>2025-03-13T14:29:24Z</time>
+			</trkpt>
+			<trkpt lat="39.8650193" lon="116.2506244">
+				<time>2025-03-13T14:29:25Z</time>
+			</trkpt>
+			<trkpt lat="39.8641736" lon="116.2485267">
+				<time>2025-03-13T14:29:26Z</time>
+			</trkpt>
+			<trkpt lat="39.8640979" lon="116.2483495">
+				<time>2025-03-13T14:29:27Z</time>
+				<name><![CDATA[郭庄子]]></name>
+			</trkpt>
+			<trkpt lat="39.8636592" lon="116.2473222">
+				<time>2025-03-13T14:29:28Z</time>
+			</trkpt>
+			<trkpt lat="39.8597571" lon="116.2383642">
+				<time>2025-03-13T14:29:29Z</time>
+			</trkpt>
+			<trkpt lat="39.8593786" lon="116.2376015">
+				<time>2025-03-13T14:29:30Z</time>
+			</trkpt>
+			<trkpt lat="39.8589515" lon="116.2366083">
+				<time>2025-03-13T14:29:31Z</time>
+			</trkpt>
+			<trkpt lat="39.8586286" lon="116.2356242">
+				<time>2025-03-13T14:29:32Z</time>
+			</trkpt>
+			<trkpt lat="39.8583509" lon="116.2344388">
+				<time>2025-03-13T14:29:33Z</time>
+				<name><![CDATA[大瓦窑]]></name>
+			</trkpt>
+			<trkpt lat="39.8580881" lon="116.2332379">
+				<time>2025-03-13T14:29:34Z</time>
+			</trkpt>
+			<trkpt lat="39.8580881" lon="116.2332379">
+				<time>2025-03-13T14:29:35Z</time>
+			</trkpt>
+			<trkpt lat="39.8580046" lon="116.2328121">
+				<time>2025-03-13T14:29:36Z</time>
+			</trkpt>
+			<trkpt lat="39.857925" lon="116.2324064">
+				<time>2025-03-13T14:29:37Z</time>
+			</trkpt>
+			<trkpt lat="39.8576688" lon="116.231147">
+				<time>2025-03-13T14:29:38Z</time>
+			</trkpt>
+			<trkpt lat="39.8574093" lon="116.2296159">
+				<time>2025-03-13T14:29:39Z</time>
+			</trkpt>
+			<trkpt lat="39.8573792" lon="116.2293722">
+				<time>2025-03-13T14:29:40Z</time>
+			</trkpt>
+			<trkpt lat="39.8573721" lon="116.2291242">
+				<time>2025-03-13T14:29:41Z</time>
+			</trkpt>
+			<trkpt lat="39.8573778" lon="116.2288982">
+				<time>2025-03-13T14:29:42Z</time>
+			</trkpt>
+			<trkpt lat="39.8573778" lon="116.2288982">
+				<time>2025-03-13T14:29:43Z</time>
+			</trkpt>
+			<trkpt lat="39.8574066" lon="116.2285893">
+				<time>2025-03-13T14:29:44Z</time>
+			</trkpt>
+			<trkpt lat="39.8574598" lon="116.2282727">
+				<time>2025-03-13T14:29:45Z</time>
+			</trkpt>
+			<trkpt lat="39.857663" lon="116.2275697">
+				<time>2025-03-13T14:29:46Z</time>
+			</trkpt>
+			<trkpt lat="39.8579344" lon="116.2270531">
+				<time>2025-03-13T14:29:47Z</time>
+			</trkpt>
+			<trkpt lat="39.8587051" lon="116.2258885">
+				<time>2025-03-13T14:29:48Z</time>
+			</trkpt>
+			<trkpt lat="39.8587051" lon="116.2258885">
+				<time>2025-03-13T14:29:49Z</time>
+			</trkpt>
+			<trkpt lat="39.8589033" lon="116.2255713">
+				<time>2025-03-13T14:29:50Z</time>
+			</trkpt>
+			<trkpt lat="39.8589033" lon="116.2255713">
+				<time>2025-03-13T14:29:51Z</time>
+			</trkpt>
+			<trkpt lat="39.8590866" lon="116.2253237">
+				<time>2025-03-13T14:29:52Z</time>
+			</trkpt>
+			<trkpt lat="39.859323" lon="116.225043">
+				<time>2025-03-13T14:29:53Z</time>
+			</trkpt>
+			<trkpt lat="39.8595464" lon="116.2248259">
+				<time>2025-03-13T14:29:54Z</time>
+			</trkpt>
+			<trkpt lat="39.8600087" lon="116.2244219">
+				<time>2025-03-13T14:29:55Z</time>
+			</trkpt>
+			<trkpt lat="39.8614636" lon="116.2232429">
+				<time>2025-03-13T14:29:56Z</time>
+			</trkpt>
+			<trkpt lat="39.8614636" lon="116.2232429">
+				<time>2025-03-13T14:29:57Z</time>
+			</trkpt>
+			<trkpt lat="39.8615112" lon="116.2232044">
+				<time>2025-03-13T14:29:58Z</time>
+			</trkpt>
+			<trkpt lat="39.8621709" lon="116.2226771">
+				<time>2025-03-13T14:29:59Z</time>
+			</trkpt>
+			<trkpt lat="39.8626063" lon="116.2223845">
+				<time>2025-03-13T14:30:00Z</time>
+			</trkpt>
+			<trkpt lat="39.8631709" lon="116.2221059">
+				<time>2025-03-13T14:30:01Z</time>
+			</trkpt>
+			<trkpt lat="39.8640156" lon="116.221671">
+				<time>2025-03-13T14:30:02Z</time>
+			</trkpt>
+			<trkpt lat="39.8643817" lon="116.2214585">
+				<time>2025-03-13T14:30:03Z</time>
+			</trkpt>
+			<trkpt lat="39.8646786" lon="116.22124">
+				<time>2025-03-13T14:30:04Z</time>
+			</trkpt>
+			<trkpt lat="39.8649678" lon="116.2209895">
+				<time>2025-03-13T14:30:05Z</time>
+			</trkpt>
+			<trkpt lat="39.8653678" lon="116.2205586">
+				<time>2025-03-13T14:30:06Z</time>
+			</trkpt>
+			<trkpt lat="39.8656447" lon="116.2202118">
+				<time>2025-03-13T14:30:07Z</time>
+			</trkpt>
+			<trkpt lat="39.8659263" lon="116.2197188">
+				<time>2025-03-13T14:30:08Z</time>
+			</trkpt>
+			<trkpt lat="39.8660878" lon="116.2193841">
+				<time>2025-03-13T14:30:09Z</time>
+			</trkpt>
+			<trkpt lat="39.8663278" lon="116.2188108">
+				<time>2025-03-13T14:30:10Z</time>
+			</trkpt>
+			<trkpt lat="39.8665583" lon="116.2180214">
+				<time>2025-03-13T14:30:11Z</time>
+			</trkpt>
+			<trkpt lat="39.8666508" lon="116.2174602">
+				<time>2025-03-13T14:30:12Z</time>
+			</trkpt>
+			<trkpt lat="39.8667084" lon="116.216855">
+				<time>2025-03-13T14:30:13Z</time>
+			</trkpt>
+			<trkpt lat="39.8667006" lon="116.2161888">
+				<time>2025-03-13T14:30:14Z</time>
+			</trkpt>
+			<trkpt lat="39.8666697" lon="116.2156713">
+				<time>2025-03-13T14:30:15Z</time>
+			</trkpt>
+			<trkpt lat="39.8665504" lon="116.214961">
+				<time>2025-03-13T14:30:16Z</time>
+			</trkpt>
+			<trkpt lat="39.8664312" lon="116.2145281">
+				<time>2025-03-13T14:30:17Z</time>
+			</trkpt>
+			<trkpt lat="39.8663002" lon="116.214098">
+				<time>2025-03-13T14:30:18Z</time>
+			</trkpt>
+			<trkpt lat="39.8661266" lon="116.2136568">
+				<time>2025-03-13T14:30:19Z</time>
+			</trkpt>
+			<trkpt lat="39.8655379" lon="116.2123772">
+				<time>2025-03-13T14:30:20Z</time>
+			</trkpt>
+			<trkpt lat="39.864464" lon="116.2099311">
+				<time>2025-03-13T14:30:21Z</time>
+			</trkpt>
+			<trkpt lat="39.863782" lon="116.2084223">
+				<time>2025-03-13T14:30:22Z</time>
+			</trkpt>
+			<trkpt lat="39.8636727" lon="116.2081805">
+				<time>2025-03-13T14:30:23Z</time>
+			</trkpt>
+			<trkpt lat="39.8624702" lon="116.2055305">
+				<time>2025-03-13T14:30:24Z</time>
+			</trkpt>
+			<trkpt lat="39.8618292" lon="116.2040528">
+				<time>2025-03-13T14:30:25Z</time>
+			</trkpt>
+			<trkpt lat="39.8611041" lon="116.2023902">
+				<time>2025-03-13T14:30:26Z</time>
+			</trkpt>
+			<trkpt lat="39.8607601" lon="116.2016052">
+				<time>2025-03-13T14:30:27Z</time>
+			</trkpt>
+			<trkpt lat="39.8605506" lon="116.2010212">
+				<time>2025-03-13T14:30:28Z</time>
+			</trkpt>
+			<trkpt lat="39.8604307" lon="116.2005974">
+				<time>2025-03-13T14:30:29Z</time>
+			</trkpt>
+			<trkpt lat="39.860315" lon="116.2000053">
+				<time>2025-03-13T14:30:30Z</time>
+			</trkpt>
+			<trkpt lat="39.8602462" lon="116.1995299">
+				<time>2025-03-13T14:30:31Z</time>
+			</trkpt>
+			<trkpt lat="39.8601991" lon="116.1990498">
+				<time>2025-03-13T14:30:32Z</time>
+			</trkpt>
+			<trkpt lat="39.8601297" lon="116.1970396">
+				<time>2025-03-13T14:30:33Z</time>
+			</trkpt>
+			<trkpt lat="39.8600623" lon="116.1957686">
+				<time>2025-03-13T14:30:34Z</time>
+				<name><![CDATA[园博园]]></name>
+			</trkpt>
+			<trkpt lat="39.8600269" lon="116.1947487">
+				<time>2025-03-13T14:30:35Z</time>
+			</trkpt>
+			<trkpt lat="39.8600091" lon="116.1936764">
+				<time>2025-03-13T14:30:36Z</time>
+			</trkpt>
+			<trkpt lat="39.8599427" lon="116.1924675">
+				<time>2025-03-13T14:30:37Z</time>
+			</trkpt>
+			<trkpt lat="39.8598475" lon="116.1890636">
+				<time>2025-03-13T14:30:38Z</time>
+			</trkpt>
+			<trkpt lat="39.8598027" lon="116.1879035">
+				<time>2025-03-13T14:30:39Z</time>
+			</trkpt>
+			<trkpt lat="39.8597349" lon="116.1872436">
+				<time>2025-03-13T14:30:40Z</time>
+			</trkpt>
+			<trkpt lat="39.8596411" lon="116.1867415">
+				<time>2025-03-13T14:30:41Z</time>
+			</trkpt>
+			<trkpt lat="39.8594982" lon="116.1862283">
+				<time>2025-03-13T14:30:42Z</time>
+			</trkpt>
+			<trkpt lat="39.8593106" lon="116.1856435">
+				<time>2025-03-13T14:30:43Z</time>
+			</trkpt>
+			<trkpt lat="39.8591446" lon="116.1852148">
+				<time>2025-03-13T14:30:44Z</time>
+			</trkpt>
+			<trkpt lat="39.8589512" lon="116.184788">
+				<time>2025-03-13T14:30:45Z</time>
+			</trkpt>
+			<trkpt lat="39.8586451" lon="116.184226">
+				<time>2025-03-13T14:30:46Z</time>
+			</trkpt>
+			<trkpt lat="39.858041" lon="116.1831438">
+				<time>2025-03-13T14:30:47Z</time>
+			</trkpt>
+			<trkpt lat="39.8577613" lon="116.1826665">
+				<time>2025-03-13T14:30:48Z</time>
+			</trkpt>
+			<trkpt lat="39.857574" lon="116.1823328">
+				<time>2025-03-13T14:30:49Z</time>
+			</trkpt>
+			<trkpt lat="39.8573449" lon="116.1819246">
+				<time>2025-03-13T14:30:50Z</time>
+			</trkpt>
+			<trkpt lat="39.856787" lon="116.1809218">
+				<time>2025-03-13T14:30:51Z</time>
+				<name><![CDATA[张郭庄]]></name>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

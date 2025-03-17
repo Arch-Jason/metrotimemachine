@@ -1,0 +1,83 @@
+  const gpxFile = [
+    [
+      "beijing_metro_line_1.gpx", // 1号线
+      "beijing_metro_line_2.gpx", // 2号线
+      "beijing_metro_line_3.gpx", // 3号线
+      "beijing_metro_line_4.gpx", // 4号线
+      "beijing_metro_line_5.gpx", // 5号线
+      "beijing_metro_line_6.gpx", // 6号线
+      "beijing_metro_line_7.gpx", // 7号线
+      "beijing_metro_line_8.gpx", // 8号线
+      "beijing_metro_line_9.gpx", // 9号线
+      "beijing_metro_line_10.gpx", // 10号线
+      "beijing_metro_line_11.gpx", // 11号线
+      "beijing_metro_line_12.gpx", // 12号线
+      "beijing_metro_line_13.gpx", // 13号线
+      "beijing_metro_line_14.gpx", // 14号线
+      "beijing_metro_line_15.gpx", // 15号线
+      "beijing_metro_line_16.gpx", // 16号线
+      "beijing_metro_line_17.gpx", // 17号线
+      "beijing_metro_line_19.gpx", // 19号线
+      "beijing_metro_line_yizhuang.gpx", // 亦庄线
+      "beijing_metro_line_fangshan.gpx", // 房山线
+      "beijing_metro_line_yanfang.gpx", // 燕房线
+      "beijing_metro_line_daxing_airport.gpx", // 大兴机场线
+      // "beijing_metro_line_s1.gpx", // S1线
+      // "beijing_metro_line_pinggu.gpx" // 平谷线
+    ]
+  ];
+
+  const gpxColors = [
+    [
+      "#A4343A", // 1号线
+      "#004B87", // 2号线
+      "#D90627", // 3号线
+      "#008C95", // 4号线
+      "#AA0061", // 5号线
+      "#B58500", // 6号线
+      "#FFC56E", // 7号线
+      "#009B77", // 8号线
+      "#97D700", // 9号线
+      "#0092BC", // 10号线
+      "#FF8674", // 11号线
+      "#9C4F01", // 12号线
+      "#F4DA40", // 13号线
+      "#CA9A8E", // 14号线
+      "#653279", // 15号线
+      "#6BA539", // 16号线
+      "#00ABAB", // 17号线
+      "#D3A3C9", // 19号线
+      "#D0006F", // 亦庄线
+      "#D86018", // 房山线
+      "#D86018", // 燕房线
+      "#0047BB", // 大兴机场线
+      // "#A45A2A", // S1线
+      // "#F4C1CA" // 平谷线
+    ]
+  ];
+  const lineNames = [
+    [
+      "北京地铁1号线",
+      "北京地铁2号线",
+      "北京地铁3号线",
+      "北京地铁4号线",
+      "北京地铁5号线",
+      "北京地铁6号线",
+      "北京地铁7号线",
+      "北京地铁8号线",
+      "北京地铁9号线",
+      "北京地铁10号线",
+      "北京地铁11号线",
+      "北京地铁12号线",
+      "北京地铁13号线",
+      "北京地铁14号线",
+      "北京地铁15号线",
+      "北京地铁16号线",
+      "北京地铁17号线",
+      "北京地铁19号线",
+      "北京地铁亦庄线",
+      "北京地铁房山线",
+      "北京地铁燕房线",
+      "北京地铁大兴机场线"
+    ]
+  
