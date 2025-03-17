@@ -43,7 +43,7 @@ function RightColumn({ currentLine, currentLineColor, year, setYear, info, yearI
                     width={50}
                     height={50}
                 >
-                    <circle cx="3" cy="3" r="3" fill={currentLineColor == "" ? "transparent" : currentLineColor} />
+                    <circle cx="3" cy="3" r="3" fill={currentLineColor === "" ? "transparent" : currentLineColor} />
                 </svg>
 
                 <b

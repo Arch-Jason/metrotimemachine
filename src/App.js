@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react";
 import "./App.css"
 import React, { useState } from "react";
 import GPXView from "./GPXView";
@@ -14,6 +15,7 @@ function App() {
 
   return (
     <div className="App">
+      <Analytics/>
       <div id="container">
         <GPXView
           currentLine={currentLine}
