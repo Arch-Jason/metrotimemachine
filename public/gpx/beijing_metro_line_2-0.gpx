@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JOSM GPX export">
+	<metadata>
+		<time>2025-03-14T14:17:01.277398745Z</time>
+		<bounds minlat="39.8979746" minlon="116.3492246" maxlat="39.9483781" maxlon="116.4296986"/>
+	</metadata>
+	<trk>
+		<name><![CDATA[地铁 2号线: 西直门 -&gt; 西直门 (外环) #1]]></name>
+		<desc>based on osm route relation data, timestamps are synthetic</desc>
+		<trkseg>
+			<trkpt lat="39.9391324" lon="116.3492602">
+				<time>2025-03-13T14:16:37Z</time>
+				<name><![CDATA[西直门]]></name>
+			</trkpt>
+			<trkpt lat="39.9385384" lon="116.3492881">
+				<time>2025-03-13T14:16:38Z</time>
+			</trkpt>
+			<trkpt lat="39.9382321" lon="116.3493036">
+				<time>2025-03-13T14:16:39Z</time>
+			</trkpt>
+			<trkpt lat="39.9320704" lon="116.3496015">
+				<time>2025-03-13T14:16:40Z</time>
+			</trkpt>
+			<trkpt lat="39.931612" lon="116.3495514">
+				<time>2025-03-13T14:16:41Z</time>
+			</trkpt>
+			<trkpt lat="39.9310072" lon="116.3495663">
+				<time>2025-03-13T14:16:42Z</time>
+				<name><![CDATA[车公庄]]></name>
+			</trkpt>
+			<trkpt lat="39.9303679" lon="116.3495843">
+				<time>2025-03-13T14:16:43Z</time>
+			</trkpt>
+			<trkpt lat="39.9300616" lon="116.3496668">
+				<time>2025-03-13T14:16:44Z</time>
+			</trkpt>
+			<trkpt lat="39.9232429" lon="116.3500132">
+				<time>2025-03-13T14:16:45Z</time>
+			</trkpt>
+			<trkpt lat="39.9229401" lon="116.3499589">
+				<time>2025-03-13T14:16:46Z</time>
+			</trkpt>
+			<trkpt lat="39.9223101" lon="116.3499722">
+				<time>2025-03-13T14:16:47Z</time>
+				<name><![CDATA[阜成门]]></name>
+			</trkpt>
+			<trkpt lat="39.9216858" lon="116.3499905">
+				<time>2025-03-13T14:16:48Z</time>
+			</trkpt>
+			<trkpt lat="39.9214291" lon="116.3500638">
+				<time>2025-03-13T14:16:49Z</time>
+			</trkpt>
+			<trkpt lat="39.9152549" lon="116.3502451">
+				<time>2025-03-13T14:16:50Z</time>
+			</trkpt>
+			<trkpt lat="39.9106525" lon="116.3504446">
+				<time>2025-03-13T14:16:51Z</time>
+			</trkpt>
+			<trkpt lat="39.9067308" lon="116.3504642">
+				<time>2025-03-13T14:16:52Z</time>
+			</trkpt>
+			<trkpt lat="39.906435" lon="116.350408">
+				<time>2025-03-13T14:16:53Z</time>
+			</trkpt>
+			<trkpt lat="39.9058346" lon="116.35041">
+				<time>2025-03-13T14:16:54Z</time>
+				<name><![CDATA[复兴门]]></name>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

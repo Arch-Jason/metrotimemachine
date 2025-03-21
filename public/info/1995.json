@@ -1,0 +1,26 @@
+[
+    {
+        "info": "1号线复兴门-西单试运营"
+    },
+    {
+        "id": 11,
+        "lineName": "一期工程 苹果园-北京站",
+        "gpxTrackFile": "/gpx/beijing_metro_line_1早期形态.gpx",
+        "color": "#A4343A",
+        "info": "1973苹果园站开通"
+    },   
+    {
+        "id": 21,
+        "lineName": "环线",
+        "gpxTrackFile": "/gpx/beijing_metro_line_2.gpx",
+        "color": "#004B87",
+        "info": ""
+    },
+    {
+        "id": 13,
+        "lineName": "复八线",
+        "gpxTrackFile": "/gpx/beijing_metro_line_复八线1.gpx",
+        "color": "#A4343A",
+        "info": ""    
+    }
+]

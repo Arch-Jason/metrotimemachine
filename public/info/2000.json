@@ -1,0 +1,19 @@
+[
+    {
+        "info": "一线复八线贯通运行"
+    },
+    {
+        "id": 15,
+        "lineName": "一线",
+        "gpxTrackFile": "/gpx/beijing_metro_line_1主线段.gpx",
+        "color": "#A4343A",
+        "info": "一线复八线贯通运行"
+    },   
+    {
+        "id": 21,
+        "lineName": "环线",
+        "gpxTrackFile": "/gpx/beijing_metro_line_2.gpx",
+        "color": "#004B87",
+        "info": ""
+    }
+]

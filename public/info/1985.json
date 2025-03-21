@@ -1,0 +1,40 @@
+[
+    {
+        "info": "1984年二期线路（2号线前身之一）开通"
+    },
+    {
+        "id": 10,
+        "lineName": "一期工程 苹果园-北京站",
+        "gpxTrackFile": "/gpx/beijing_metro_line_2早期形态.gpx",
+        "color": "#A4343A",
+        "info": "1973苹果园站开通"
+    },
+    {
+        "id": 11,
+        "lineName": "一期工程 苹果园-北京站",
+        "gpxTrackFile": "/gpx/beijing_metro_line_1早期形态.gpx",
+        "color": "#A4343A",
+        "info": "1973苹果园站开通"
+    },
+    {
+        "id": 12,
+        "lineName": "一期工程 苹果园-北京站",
+        "gpxTrackFile": "/gpx/beijing_metro_line_1苹果园段.gpx",
+        "color": "#A4343A",
+        "info": "1973苹果园站开通"
+    },
+    {
+        "id": 20,
+        "lineName": "二期线路",
+        "gpxTrackFile": "/gpx/beijing_metro_line_2-0.gpx",
+        "color": "#004B87",
+        "info": "1984年二期线路（2号线前身之一）开通"
+    },
+    {
+        "id": 22,
+        "lineName": "二期线路",
+        "gpxTrackFile": "/gpx/beijing_metro_line_2-2.gpx",
+        "color": "#004B87",
+        "info": "1984年二期线路（2号线前身之一）开通"
+    }
+]

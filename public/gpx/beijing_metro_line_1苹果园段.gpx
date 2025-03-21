@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JOSM GPX export">
+	<metadata>
+		<time>2025-03-14T14:24:15.242503060Z</time>
+		<bounds minlat="39.8479222" minlon="116.1649174" maxlat="39.9385477" maxlon="116.691752"/>
+	</metadata>
+	<trk>
+		<name><![CDATA[地铁 1号线苹果园段]]></name>
+		<trkseg>
+			<trkpt lat="39.924108" lon="116.172636">
+				<ele>0.000000</ele>
+			</trkpt>
+			<trkpt lat="39.9170153" lon="116.1796922">
+				<time>2025-03-13T14:24:18Z</time>
+			</trkpt>
+			<trkpt lat="39.9157996" lon="116.1802929">
+				<time>2025-03-13T14:24:19Z</time>
+			</trkpt>
+			<trkpt lat="39.9148518" lon="116.1805775">
+				<time>2025-03-13T14:24:20Z</time>
+			</trkpt>
+			<trkpt lat="39.9146586" lon="116.1805765">
+				<time>2025-03-13T14:24:21Z</time>
+			</trkpt>
+			<trkpt lat="39.9075221" lon="116.1806066">
+				<time>2025-03-13T14:24:22Z</time>
+			</trkpt>
+			<trkpt lat="39.907128" lon="116.1806629">
+				<time>2025-03-13T14:24:23Z</time>
+			</trkpt>
+			<trkpt lat="39.9066773" lon="116.1809246">
+				<time>2025-03-13T14:24:24Z</time>
+			</trkpt>
+			<trkpt lat="39.9063442" lon="116.1813554">
+				<time>2025-03-13T14:24:25Z</time>
+			</trkpt>
+			<trkpt lat="39.9061648" lon="116.1818986">
+				<time>2025-03-13T14:24:26Z</time>
+			</trkpt>
+			<trkpt lat="39.9061196" lon="116.1825081">
+				<time>2025-03-13T14:24:27Z</time>
+			</trkpt>
+			<trkpt lat="39.906127" lon="116.183992">
+				<time>2025-03-13T14:24:28Z</time>
+				<name><![CDATA[古城]]></name>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

@@ -1,0 +1,19 @@
+[
+    {
+        "info": 1971
+    },
+    {
+        "id": 10,
+        "lineName": "一期工程 古城-北京站",
+        "gpxTrackFile": "/gpx/beijing_metro_line_2早期形态.gpx",
+        "color": "#A4343A",
+        "info": "一期工程 古城-北京站"
+    },
+    {
+        "id": 11,
+        "lineName": "一期工程 古城-北京站",
+        "gpxTrackFile": "/gpx/beijing_metro_line_1早期形态.gpx",
+        "color": "#A4343A",
+        "info": "一期工程 古城-北京站"
+    }
+]

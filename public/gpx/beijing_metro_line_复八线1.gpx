@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JOSM GPX export">
+	<metadata>
+		<time>2025-03-14T14:24:15.242503060Z</time>
+		<bounds minlat="39.8479222" minlon="116.1649174" maxlat="39.9385477" maxlon="116.691752"/>
+	</metadata>
+	<trk>
+		<name><![CDATA[复八线西]]></name>
+		<trkseg>
+			<trkpt lat="39.9057983" lon="116.3503148">
+				<time>2025-03-13T14:25:23Z</time>
+			</trkpt>
+			<trkpt lat="39.9058006" lon="116.3513203">
+				<time>2025-03-13T14:25:24Z</time>
+				<name><![CDATA[复兴门]]></name>
+			</trkpt>
+			<trkpt lat="39.9057988" lon="116.3522901">
+				<time>2025-03-13T14:25:25Z</time>
+			</trkpt>
+			<trkpt lat="39.9057938" lon="116.3526689">
+				<time>2025-03-13T14:25:26Z</time>
+			</trkpt>
+			<trkpt lat="39.905792" lon="116.3549922">
+				<time>2025-03-13T14:25:27Z</time>
+			</trkpt>
+			<trkpt lat="39.9058097" lon="116.3552905">
+				<time>2025-03-13T14:25:28Z</time>
+			</trkpt>
+			<trkpt lat="39.905748" lon="116.367835">
+				<time>2025-03-13T14:25:29Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

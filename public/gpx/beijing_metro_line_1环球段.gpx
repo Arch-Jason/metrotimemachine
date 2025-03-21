@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JOSM GPX export">
+	<metadata>
+		<time>2025-03-14T14:24:15.242503060Z</time>
+		<bounds minlat="39.8479222" minlon="116.1649174" maxlat="39.9385477" maxlon="116.691752"/>
+	</metadata>
+	<trk>
+		<name><![CDATA[地铁八通线环球度假区线]]></name>
+		<trkseg>
+			<trkpt lat="39.855378" lon="116.689029">
+				<ele>0.000000</ele>
+				<time>2025-03-13T14:36:47Z</time>
+				<name><![CDATA[花庄]]></name>
+			</trkpt>
+			<trkpt lat="39.8532608" lon="116.6878151">
+				<time>2025-03-13T14:36:48Z</time>
+			</trkpt>
+			<trkpt lat="39.8529965" lon="116.6876564">
+				<time>2025-03-13T14:36:49Z</time>
+			</trkpt>
+			<trkpt lat="39.8529965" lon="116.6876564">
+				<time>2025-03-13T14:36:50Z</time>
+			</trkpt>
+			<trkpt lat="39.852793" lon="116.6875463">
+				<time>2025-03-13T14:36:51Z</time>
+			</trkpt>
+			<trkpt lat="39.8526089" lon="116.6874596">
+				<time>2025-03-13T14:36:52Z</time>
+			</trkpt>
+			<trkpt lat="39.8524367" lon="116.6873889">
+				<time>2025-03-13T14:36:53Z</time>
+			</trkpt>
+			<trkpt lat="39.8522691" lon="116.6873267">
+				<time>2025-03-13T14:36:54Z</time>
+			</trkpt>
+			<trkpt lat="39.8520984" lon="116.6872658">
+				<time>2025-03-13T14:36:55Z</time>
+			</trkpt>
+			<trkpt lat="39.8519172" lon="116.6871986">
+				<time>2025-03-13T14:36:56Z</time>
+			</trkpt>
+			<trkpt lat="39.8517182" lon="116.6871177">
+				<time>2025-03-13T14:36:57Z</time>
+			</trkpt>
+			<trkpt lat="39.8514938" lon="116.6870158">
+				<time>2025-03-13T14:36:58Z</time>
+			</trkpt>
+			<trkpt lat="39.8512367" lon="116.6868854">
+				<time>2025-03-13T14:36:59Z</time>
+			</trkpt>
+			<trkpt lat="39.8509392" lon="116.6867191">
+				<time>2025-03-13T14:37:00Z</time>
+			</trkpt>
+			<trkpt lat="39.8509392" lon="116.6867191">
+				<time>2025-03-13T14:37:01Z</time>
+			</trkpt>
+			<trkpt lat="39.8500664" lon="116.6860865">
+				<time>2025-03-13T14:37:02Z</time>
+			</trkpt>
+			<trkpt lat="39.8493801" lon="116.6853665">
+				<time>2025-03-13T14:37:03Z</time>
+			</trkpt>
+			<trkpt lat="39.8488582" lon="116.6845898">
+				<time>2025-03-13T14:37:04Z</time>
+			</trkpt>
+			<trkpt lat="39.8484782" lon="116.6837869">
+				<time>2025-03-13T14:37:05Z</time>
+			</trkpt>
+			<trkpt lat="39.8482178" lon="116.6829885">
+				<time>2025-03-13T14:37:06Z</time>
+			</trkpt>
+			<trkpt lat="39.8480547" lon="116.6822251">
+				<time>2025-03-13T14:37:07Z</time>
+			</trkpt>
+			<trkpt lat="39.8479667" lon="116.6815275">
+				<time>2025-03-13T14:37:08Z</time>
+			</trkpt>
+			<trkpt lat="39.8479313" lon="116.6809261">
+				<time>2025-03-13T14:37:09Z</time>
+			</trkpt>
+			<trkpt lat="39.8479263" lon="116.6804516">
+				<time>2025-03-13T14:37:10Z</time>
+			</trkpt>
+			<trkpt lat="39.8479293" lon="116.6801347">
+				<time>2025-03-13T14:37:11Z</time>
+			</trkpt>
+			<trkpt lat="39.8479293" lon="116.6801347">
+				<time>2025-03-13T14:37:12Z</time>
+			</trkpt>
+			<trkpt lat="39.8479241" lon="116.6767774">
+				<time>2025-03-13T14:37:13Z</time>
+			</trkpt>
+			<trkpt lat="39.8479222" lon="116.6755466">
+				<time>2025-03-13T14:37:14Z</time>
+			</trkpt>
+			<trkpt lat="39.847928" lon="116.673517">
+				<ele>0.000000</ele>
+				<time>2025-03-13T14:37:15Z</time>
+				<name><![CDATA[环球度假区]]></name>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

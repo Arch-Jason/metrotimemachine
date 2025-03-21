@@ -1,0 +1,26 @@
+[
+    {
+        "info": "1990"
+    },
+    {
+        "id": 21,
+        "lineName": "环线",
+        "gpxTrackFile": "/gpx/beijing_metro_line_2.gpx",
+        "color": "#004B87",
+        "info": "二期线路成为环线开通"
+    },
+    {
+        "id": 11,
+        "lineName": "一期工程 苹果园-北京站",
+        "gpxTrackFile": "/gpx/beijing_metro_line_1早期形态.gpx",
+        "color": "#A4343A",
+        "info": "1973苹果园站开通"
+    },
+    {
+        "id": 12,
+        "lineName": "一期工程 苹果园-北京站",
+        "gpxTrackFile": "/gpx/beijing_metro_line_1苹果园段.gpx",
+        "color": "#A4343A",
+        "info": "1973苹果园站开通"
+    }
+]

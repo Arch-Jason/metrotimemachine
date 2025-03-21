@@ -1,0 +1,26 @@
+[
+    {
+        "info": "北京地铁线路改名"
+    },
+    {
+        "id": 15,
+        "lineName": "1号线",
+        "gpxTrackFile": "/gpx/beijing_metro_line_1主线段.gpx",
+        "color": "#A4343A",
+        "info": ""
+    },   
+    {
+        "id": 21,
+        "lineName": "2号线",
+        "gpxTrackFile": "/gpx/beijing_metro_line_2.gpx",
+        "color": "#004B87",
+        "info": ""
+    },
+    {
+        "id": 131,
+        "lineName": "13号线",
+        "gpxTrackFile": "/gpx/beijing_metro_line_13.gpx",
+        "color": "#F4DA40",
+        "info": "13号线东线试运营"
+    }
+]

@@ -55,7 +55,7 @@ function RightColumn({ currentLine, currentLineColor, year, setYear, info, yearI
 
             <div
                 id="lineInfo"
-                dangerouslySetInnerHTML={{ __html: info }}
+                dangerouslySetInnerHTML={{ __html: info}}
             />
 
         </div>
