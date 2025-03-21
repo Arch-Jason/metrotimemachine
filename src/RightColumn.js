@@ -12,6 +12,7 @@ function RightColumn({ currentLine, currentLineColor, year, setYear, info, yearI
                     <InputGroup.Text>年份</InputGroup.Text>
                     <Form.Control
                         id="yearNumInput"
+                        type="number"
                         defaultValue={year}
                         onChange={(e) => {
                             if (e.target.value >= 1965 && e.target.value <= 2025) {
