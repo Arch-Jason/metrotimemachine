@@ -29,5 +29,12 @@
         "gpxTrackFile": "/gpx/beijing_metro_line_batong_1.gpx",
         "color": "#A4343A",
         "info": "八通线（四惠——土桥）开通"
+    },
+    {
+        "id": 12,
+        "lineName": "1号线",
+        "gpxTrackFile": "/gpx/beijing_metro_line_1苹果园段.gpx",
+        "color": "#A4343A",
+        "info": ""
     }
 ]
