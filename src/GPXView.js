@@ -88,10 +88,10 @@ function redrawAllLines(canvas, highlightIndex, highlightColor) {
     }
     if (index === highlightIndex) {
       ctx.strokeStyle = highlightColor || line.color;
-      ctx.lineWidth = 4;
+      ctx.lineWidth = 8;
     } else {
       ctx.strokeStyle = line.color;
-      ctx.lineWidth = 2;
+      ctx.lineWidth = 5;
     }
     ctx.stroke();
   });
