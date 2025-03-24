@@ -22,5 +22,12 @@
         "gpxTrackFile": "/gpx/beijing_metro_line_13_1.gpx",
         "color": "#F4DA40",
         "info": "13号线西线试运营"
+    },
+    {
+        "id": 12,
+        "lineName": "1号线",
+        "gpxTrackFile": "/gpx/beijing_metro_line_1苹果园段.gpx",
+        "color": "#A4343A",
+        "info": ""
     }
 ]

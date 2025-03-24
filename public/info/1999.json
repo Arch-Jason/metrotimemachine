@@ -1,6 +1,6 @@
 [
     {
-        "info": "复八线东段开通"
+        "info": "1999年复八线东段开通"
     },
     {
         "id": 11,
@@ -29,5 +29,12 @@
         "gpxTrackFile": "/gpx/beijing_metro_line_1主线段2.gpx",
         "color": "#A4343A",
         "info": ""    
+    },
+    {
+        "id": 12,
+        "lineName": "一期工程 苹果园-北京站",
+        "gpxTrackFile": "/gpx/beijing_metro_line_1苹果园段.gpx",
+        "color": "#A4343A",
+        "info": ""
     }
 ]
