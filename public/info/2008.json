@@ -1,6 +1,6 @@
 [
     {
-        "info": "北京地铁4号线（安河桥北-公益西桥）开通"
+        "info": "北京地铁8号线、首都机场线开通"
     },
     {
         "id": 15,
@@ -8,7 +8,7 @@
         "gpxTrackFile": "/gpx/beijing_metro_line_1主线段.gpx",
         "color": "#A4343A",
         "info": ""
-    },
+    },   
     {
         "id": 21,
         "lineName": "2号线",
@@ -37,13 +37,6 @@
         "color": "#A4343A",
         "info": ""
     },
-        {
-        "id": 40,
-        "lineName": "4号线",
-        "gpxTrackFile": "/gpx/beijing_metro_line_4_1.gpx",
-        "color": "##008C95",
-        "info": "4号线（安河桥北-公益西桥）开通"
-    },
     {
         "id": 50,
         "lineName": "5号线",
@@ -64,7 +57,7 @@
         "gpxTrackFile": "/gpx/beijing_metro_line_8_1.gpx",
         "color": "#009B77",
         "info": "8号线一期开通"
-    },
+    },    
     {
         "id": 990,
         "lineName": "首都机场线",

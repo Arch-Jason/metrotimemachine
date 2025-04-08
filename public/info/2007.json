@@ -1,0 +1,47 @@
+[
+    {
+        "info": "北京地铁5号线开通"
+    },
+    {
+        "id": 15,
+        "lineName": "1号线",
+        "gpxTrackFile": "/gpx/beijing_metro_line_1主线段.gpx",
+        "color": "#A4343A",
+        "info": ""
+    },   
+    {
+        "id": 21,
+        "lineName": "2号线",
+        "gpxTrackFile": "/gpx/beijing_metro_line_2.gpx",
+        "color": "#004B87",
+        "info": ""
+    },
+    {
+        "id": 131,
+        "lineName": "13号线",
+        "gpxTrackFile": "/gpx/beijing_metro_line_13.gpx",
+        "color": "#F4DA40",
+        "info": ""
+    },
+    {
+        "id": 16,
+        "lineName": "八通线",
+        "gpxTrackFile": "/gpx/beijing_metro_line_batong_1.gpx",
+        "color": "#A4343A",
+        "info": ""
+    },
+    {
+        "id": 12,
+        "lineName": "1号线",
+        "gpxTrackFile": "/gpx/beijing_metro_line_1苹果园段.gpx",
+        "color": "#A4343A",
+        "info": ""
+    },
+    {
+        "id": 50,
+        "lineName": "5号线",
+        "gpxTrackFile": "/gpx/beijing_metro_line_5.gpx",
+        "color": "#AA0061",
+        "info": "5号线开通"
+    }
+]

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JOSM GPX export">
+	<metadata>
+		<time>2025-03-27T09:41:43.056302591Z</time>
+		<bounds minlat="39.9396779" minlon="116.4119341" maxlat="40.0780129" maxlon="116.6110677"/>
+	</metadata>
+	<trk>
+		<name><![CDATA[地铁 首都机场线: 北新桥 → 2号航站楼 #1]]></name>
+		<desc>based on osm route relation data, timestamps are synthetic</desc>
+		<trkseg>
+			<trkpt lat="39.9396779" lon="116.4119341">
+				<time>2025-03-26T09:41:37Z</time>
+				<name><![CDATA[北新桥]]></name>
+			</trkpt>
+			<trkpt lat="39.9396944" lon="116.41270740000002">
+				<time>2025-03-26T09:41:38Z</time>
+			</trkpt>
+			<trkpt lat="39.9399936" lon="116.42673209999998">
+				<time>2025-03-26T09:41:39Z</time>
+			</trkpt>
+			<trkpt lat="39.9400152" lon="116.42951649999999">
+				<time>2025-03-26T09:41:40Z</time>
+				<name><![CDATA[东直门]]></name>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

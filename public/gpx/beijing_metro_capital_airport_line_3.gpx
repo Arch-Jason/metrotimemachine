@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JOSM GPX export">
+	<metadata>
+		<time>2025-03-27T09:41:43.056302591Z</time>
+		<bounds minlat="39.9396779" minlon="116.4119341" maxlat="40.0780129" maxlon="116.6110677"/>
+	</metadata>
+	<trk>
+		<name><![CDATA[首都机场线]]></name>
+		<trkseg>
+			<trkpt lat="40.0387813" lon="116.59751779999999">
+			</trkpt>
+			<trkpt lat="40.038927" lon="116.5975736">
+			</trkpt>
+			<trkpt lat="40.0390956" lon="116.59763760000001">
+			</trkpt>
+			<trkpt lat="40.039264200000005" lon="116.59769139999999">
+			</trkpt>
+			<trkpt lat="40.0394184" lon="116.5977248">
+			</trkpt>
+			<trkpt lat="40.0395974" lon="116.5977605">
+			</trkpt>
+			<trkpt lat="40.040058" lon="116.597800">
+			</trkpt>
+			<trkpt lat="40.040672" lon="116.597857">
+			</trkpt>
+			<trkpt lat="40.040894" lon="116.597888">
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

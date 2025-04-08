@@ -15,7 +15,7 @@ function RightColumn({ currentLine, currentLineColor, year, setYear, info, yearI
                         type="number"
                         defaultValue={year}
                         onChange={(e) => {
-                            if (e.target.value >= 1965 && e.target.value <= 2025) {
+                            if (e.target.value >= 1971 && e.target.value <= 2025) {
                                 setYear(e.target.value);
                             }
                         }}
@@ -24,7 +24,7 @@ function RightColumn({ currentLine, currentLineColor, year, setYear, info, yearI
                 
                 <Form.Range
                     id="rangeSlider"
-                    min={1965}
+                    min={1971}
                     max={2025}
                     step={1}
                     value={year}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="JOSM GPX export">
+	<metadata>
+		<time>2025-03-14T14:27:03.598107216Z</time>
+		<bounds minlat="39.7585625" minlon="116.3075669" maxlat="40.1029839" maxlon="116.4430082"/>
+	</metadata>
+	<trk>
+		<name><![CDATA[地铁 8号线一期]]></name>
+		<trkseg>
+			<trkpt lat="40.0091958" lon="116.3862915">
+				<time>2025-03-13T14:29:08Z</time>
+				<name><![CDATA[森林公园南门]]></name>
+			</trkpt>
+			<trkpt lat="40.0091958" lon="116.3862915">
+				<time>2025-03-13T14:29:09Z</time>
+				<name><![CDATA[森林公园南门]]></name>
+			</trkpt>
+			<trkpt lat="39.999324" lon="116.386751">
+				<time>2025-03-13T14:29:10Z</time>
+				<name><![CDATA[奥林匹克公园]]></name>
+			</trkpt>
+			<trkpt lat="39.9841326" lon="116.3874758">
+				<time>2025-03-13T14:29:11Z</time>
+				<name><![CDATA[奥体中心]]></name>
+			</trkpt>
+			<trkpt lat="39.9811754" lon="116.3876024">
+				<time>2025-03-13T14:29:12Z</time>
+			</trkpt>
+			<trkpt lat="39.9763986" lon="116.3878002">
+				<time>2025-03-13T14:29:13Z</time>
+				<name><![CDATA[北土城]]></name>
+			</trkpt>
+			<trkpt lat="39.9763986" lon="116.3878002">
+				<time>2025-03-13T14:29:14Z</time>
+				<name><![CDATA[北土城]]></name>
+			</trkpt>
+			<trkpt lat="39.975527" lon="116.387843">
+				<time>2025-03-13T14:29:15Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

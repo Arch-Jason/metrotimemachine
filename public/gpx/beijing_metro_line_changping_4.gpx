@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="overpass-turbo">
+	<metadata>
+		<desc>Filtered OSM data converted to GPX by overpass turbo</desc>
+		<copyright author="The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.">
+		</copyright>
+		<time>2025-04-07T01:09:09Z</time>
+	</metadata>
+	<trk>
+		<name><![CDATA[北京地铁昌平线南延]]></name>
+		<desc><![CDATA[layer=-1
+name=北京地铁昌平线南延
+name:zh=北京地铁昌平线南延
+name:zh-Hans=北京地铁昌平线南延
+name:zh-Hant=北京地鐵昌平線南延
+railway=subway
+tunnel=yes]]></desc>
+		<link href="http://osm.org/browse/way/929144130">
+		</link>
+		<trkseg>
+			<trkpt lat="39.9738577" lon="116.3482366">
+			</trkpt>
+			<trkpt lat="39.9744976" lon="116.3482112">
+			</trkpt>
+			<trkpt lat="39.9767422" lon="116.3479824">
+			</trkpt>
+			<trkpt lat="39.9771007" lon="116.3478759">
+			</trkpt>
+			<trkpt lat="39.97807" lon="116.3478114">
+			</trkpt>
+			<trkpt lat="39.9794078" lon="116.3477339">
+			</trkpt>
+			<trkpt lat="39.9806589" lon="116.3476597">
+			</trkpt>
+			<trkpt lat="39.9817889" lon="116.3475791">
+			</trkpt>
+			<trkpt lat="39.9838162" lon="116.3474418">
+			</trkpt>
+			<trkpt lat="39.9843613" lon="116.3474049">
+			</trkpt>
+			<trkpt lat="39.9857271" lon="116.3473717">
+			</trkpt>
+			<trkpt lat="39.9868023" lon="116.3473132">
+			</trkpt>
+			<trkpt lat="39.9869693" lon="116.3473036">
+			</trkpt>
+			<trkpt lat="39.9916932" lon="116.3470445">
+			</trkpt>
+			<trkpt lat="39.998942" lon="116.3466457">
+			</trkpt>
+			<trkpt lat="40.0060108" lon="116.3463167">
+			</trkpt>
+			<trkpt lat="40.0136303" lon="116.3457854">
+			</trkpt>
+			<trkpt lat="40.0141061" lon="116.3457522">
+			</trkpt>
+			<trkpt lat="40.0163199" lon="116.3456026">
+			</trkpt>
+			<trkpt lat="40.0179659" lon="116.3454938">
+			</trkpt>
+			<trkpt lat="40.020315" lon="116.3455006">
+			</trkpt>
+			<trkpt lat="40.0227682" lon="116.3453577">
+			</trkpt>
+			<trkpt lat="40.0237994" lon="116.3451061">
+			</trkpt>
+			<trkpt lat="40.0245234" lon="116.3446096">
+			</trkpt>
+			<trkpt lat="40.0256379" lon="116.3440791">
+			</trkpt>
+			<trkpt lat="40.0272472" lon="116.3429297">
+			</trkpt>
+			<trkpt lat="40.0292959" lon="116.3413802">
+			</trkpt>
+			<trkpt lat="40.0296457" lon="116.3410477">
+			</trkpt>
+			<trkpt lat="40.029959" lon="116.3407444">
+			</trkpt>
+			<trkpt lat="40.030292" lon="116.3403534">
+			</trkpt>
+			<trkpt lat="40.0307536" lon="116.3397432">
+			</trkpt>
+			<trkpt lat="40.0311397" lon="116.3392646">
+			</trkpt>
+			<trkpt lat="40.0314558" lon="116.3388334">
+			</trkpt>
+			<trkpt lat="40.0317356" lon="116.3385375">
+			</trkpt>
+			<trkpt lat="40.0323539" lon="116.3380077">
+			</trkpt>
+			<trkpt lat="40.0338935" lon="116.3368414">
+			</trkpt>
+			<trkpt lat="40.0345864" lon="116.3362903">
+			</trkpt>
+			<trkpt lat="40.0350396" lon="116.3359725">
+			</trkpt>
+			<trkpt lat="40.035255" lon="116.3356801">
+			</trkpt>
+			<trkpt lat="40.035504" lon="116.335059">
+			</trkpt>
+			<trkpt lat="40.0357558" lon="116.3342186">
+			</trkpt>
+			<trkpt lat="40.0358761" lon="116.3330494">
+			</trkpt>
+			<trkpt lat="40.0358033" lon="116.3322638">
+			</trkpt>
+			<trkpt lat="40.0357698" lon="116.3318838">
+			</trkpt>
+			<trkpt lat="40.03549" lon="116.3308644">
+			</trkpt>
+			<trkpt lat="40.0349725" lon="116.3290996">
+			</trkpt>
+			<trkpt lat="40.0348298" lon="116.3278572">
+			</trkpt>
+			<trkpt lat="40.0347878" lon="116.326973">
+			</trkpt>
+			<trkpt lat="40.0346479" lon="116.324682">
+			</trkpt>
+			<trkpt lat="40.0343766" lon="116.3206409">
+			</trkpt>
+			<trkpt lat="40.0342871" lon="116.3189236">
+			</trkpt>
+			<trkpt lat="40.0343402" lon="116.3183682">
+			</trkpt>
+			<trkpt lat="40.0345165" lon="116.317652">
+			</trkpt>
+			<trkpt lat="40.0351851" lon="116.3158105">
+			</trkpt>
+			<trkpt lat="40.0358905" lon="116.3138664">
+			</trkpt>
+			<trkpt lat="40.0359926" lon="116.313533">
+			</trkpt>
+			<trkpt lat="40.03635" lon="116.3126506">
+			</trkpt>
+			<trkpt lat="40.0368759" lon="116.3119216">
+			</trkpt>
+			<trkpt lat="40.0375821" lon="116.3109858">
+			</trkpt>
+			<trkpt lat="40.0380399" lon="116.3105213">
+			</trkpt>
+			<trkpt lat="40.038346" lon="116.310197">
+			</trkpt>
+			<trkpt lat="40.038404" lon="116.310138">
+			</trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[北京地铁昌平线南延 (2)]]></name>
+		<trkseg>
+			<trkpt lat="39.9664401" lon="116.3485256">
+			</trkpt>
+			<trkpt lat="39.9698223" lon="116.3483937">
+			</trkpt>
+			<trkpt lat="39.9726516" lon="116.3482545">
+			</trkpt>
+			<trkpt lat="39.9738577" lon="116.3482366">
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
